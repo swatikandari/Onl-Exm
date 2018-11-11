@@ -1,2 +1,2 @@
 # Onl-Exm
-Online Examination System
+Online Examination System- SEM
